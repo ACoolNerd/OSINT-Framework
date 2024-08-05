@@ -10,16 +10,223 @@
       "name": "Username Search Engines",
       "type": "folder",
       "children": [
-      {
-        "name": "WhatsMyName",
-        "type": "url",
-        "url": "https://whatsmyname.app/"
-      },
-      {
-        "name": "Namechk",
-        "type": "url",
-        "url": "https://namechk.com/"
-      },
+          {
+              "name": "Los Angeles Business Source Centers",
+              "type": "url",
+              "description": "Search results for LA business centers",
+              "link": "https://www.google.com/search?q=Los+angeles+business+source+centers&rlz=1C5CHFA_enUS906US906&oq=Los+angeles+business+source+centers&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIICAIQABgWGB4yCggDEAAYgAQYogQyCggEEAAYogQYiQUyCggFEAAYgAQYogQyBggGEEUYPNIBCDgxMDBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8"
+          },
+          {
+              "name": "BusinessSource Centers",
+              "type": "url",
+              "description": "City of Los Angeles BusinessSource Centers",
+              "link": "https://www.ewddlacity.com/index.php/local-business/businesssource-centers"
+          },
+          {
+              "name": "LA Business Portal",
+              "type": "url",
+              "description": "Business Source Centers on LA Business Portal",
+              "link": "https://business.lacity.gov/resources/business-source-centers"
+          },
+          {
+              "name": "Project Proposal",
+              "type": "url",
+              "description": "Google Docs project proposal document",
+              "link": "https://docs.google.com/document/d/1RVXRRGd0pIrbN3WTRns5eNOsBtXkvKXSmGYXWR6ONXE/edit"
+          },
+          {
+              "name": "ACoolBUSINESS_SOURCEai",
+              "type": "url",
+              "description": "Google Sheets document for ACoolBUSINESS",
+              "link": "https://docs.google.com/spreadsheets/d/1wp_bD7x0zmHHuZL698SZP_QjGg7Gyfh_RxrWjgk_Hnc/edit?gid=406098107#gid=406098107"
+          },
+          {
+              "name": "Work Opportunities — ICON CDC",
+              "type": "url",
+              "description": "ICON CDC work opportunities page",
+              "link": "https://www.iconcdc.org/work-opportunities"
+          },
+          {
+              "name": "About Us — ICON CDC",
+              "type": "url",
+              "description": "About ICON CDC page",
+              "link": "https://www.iconcdc.org/about"
+          },
+          {
+              "name": "Our Team — ICON CDC",
+              "type": "url",
+              "description": "Team information for ICON CDC",
+              "link": "https://www.iconcdc.org/our-team"
+          },
+          {
+              "name": "Annual Reports — ICON CDC",
+              "type": "url",
+              "description": "Annual reports from ICON CDC",
+              "link": "https://www.iconcdc.org/annual-reports"
+          },
+          {
+              "name": "Privacy Policy — ICON CDC",
+              "type": "url",
+              "description": "Privacy policy of ICON CDC",
+              "link": "https://www.iconcdc.org/privacy-policy"
+          },
+          {
+              "name": "Small Business Development Services",
+              "type": "url",
+              "description": "Small Business Development by ICON CDC",
+              "link": "https://www.iconcdc.org/small-business-development-services"
+          },
+          {
+              "name": "Start Your Business — ICON CDC",
+              "type": "url",
+              "description": "Business startup services at ICON CDC",
+              "link": "https://www.iconcdc.org/services/start-your-business"
+          },
+          {
+              "name": "Entrepreneurial Training Program",
+              "type": "url",
+              "description": "Entrepreneurial training at ICON CDC",
+              "link": "https://www.iconcdc.org/services/entrepreneurial-training-program"
+          },
+          {
+              "name": "Sidewalk Vending Program — ICON CDC",
+              "type": "url",
+              "description": "Sidewalk vending program details",
+              "link": "https://www.iconcdc.org/services/sidewalk-vending-program"
+          },
+          {
+              "name": "Grow Your Business — ICON CDC",
+              "type": "url",
+              "description": "Business growth services at ICON CDC",
+              "link": "https://www.iconcdc.org/services/grow-your-business"
+          },
+          {
+              "name": "Commercial Direct Install Program",
+              "type": "url",
+              "description": "Direct install program details",
+              "link": "https://www.iconcdc.org/services/commercial-direct-install-program"
+          },
+          {
+              "name": "Fund Your Business — ICON CDC",
+              "type": "url",
+              "description": "Funding services by ICON CDC",
+              "link": "https://www.iconcdc.org/services/grow-your-business-1"
+          },
+          {
+              "name": "ICON Micro Lending Program",
+              "type": "url",
+              "description": "Micro lending program by ICON CDC",
+              "link": "https://www.iconcdc.org/icon-micro-lending-program"
+          },
+          {
+              "name": "General 2 — ICON CDC",
+              "type": "url",
+              "description": "Partners and supporters of ICON CDC",
+              "link": "https://www.iconcdc.org/partners-supporters"
+          },
+          {
+              "name": "Economic Mobility Initiative — ICON CDC",
+              "type": "url",
+              "description": "Economic mobility program by ICON CDC",
+              "link": "https://www.iconcdc.org/economic-mobility-initiative"
+          },
+          {
+              "name": "Upcoming Events — ICON CDC",
+              "type": "url",
+              "description": "ICON CDC upcoming events page",
+              "link": "https://www.iconcdc.org/upcoming-events"
+          },
+          {
+              "name": "Success Stories — ICON CDC",
+              "type": "url",
+              "description": "Success stories from ICON CDC",
+              "link": "https://www.iconcdc.org/success-stories"
+          },
+          {
+              "name": "Accessibility Statement — ICON CDC",
+              "type": "url",
+              "description": "ICON CDC accessibility statement",
+              "link": "https://www.iconcdc.org/accessibility"
+          },
+          {
+              "name": "WordPress › Error",
+              "type": "url",
+              "description": "West Valley BusinessSource site error",
+              "link": "https://westvalleybusinesssource.com/"
+          },
+          {
+              "name": "pacelabdc.org",
+              "type": "url",
+              "description": "PACE Lab DC website",
+              "link": "https://pacelabdc.org/"
+          },
+          {
+              "name": "MCS Los Angeles",
+              "type": "url",
+              "description": "Harbor BusinessSource Center site",
+              "link": "https://harborbusinesssource.com/"
+          },
+          {
+              "name": "About Us – MCS Los Angeles",
+              "type": "url",
+              "description": "About Harbor BusinessSource Center",
+              "link": "https://harborbusinesssource.com/about-us/"
+          },
+          {
+              "name": "Events from February 9 – October 30, 2023",
+              "type": "url",
+              "description": "Harbor BusinessSource Center events",
+              "link": "https://harborbusinesssource.com/workshops/"
+          },
+          {
+              "name": "VSEDC - Empowering South LA",
+              "type": "url",
+              "description": "VSEDC homepage",
+              "link": "https://vsedc.org/"
+          },
+          {
+              "name": "BusinessSource Centers - VSEDC",
+              "type": "url",
+              "description": "VSEDC BusinessSource Center details",
+              "link": "https://vsedc.org/businesssource-centers/"
+          },
+          {
+              "name": "get%20started",
+              "type": "url",
+              "description": "Invalid URL link",
+              "link": "http://get%20started/"
+          },
+          {
+              "name": "About Us - VSEDC",
+              "type": "url",
+              "description": "Leadership details of VSEDC",
+              "link": "https://vsedc.org/about-us/#leadership"
+          },
+          {
+              "name": "About Us - VSEDC",
+              "type": "url",
+              "description": "Staff information at VSEDC",
+              "link": "https://vsedc.org/about-us/#staff"
+          },
+          {
+              "name": "About Us - VSEDC",
+              "type": "url",
+              "description": "Board of Directors at VSEDC",
+              "link": "https://vsedc.org/about-us/#board-of-directors"
+          },
+          {
+              "name": "About Us - VSEDC",
+              "type": "url",
+              "description": "Sponsors of VSEDC",
+              "link": "https://vsedc.org/about-us/#sponsors"
+          },
+          {
+              "name": "Careers and RFQ - VSEDC",
+              "type": "url",
+              "description": "Job and RFQ opportunities at VSEDC",
+              "link": "https://vsedc.org/careers-and-rfq/"
+          },
+          
       {
         "name": "KnowEm",
         "type": "url",
